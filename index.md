@@ -2,122 +2,33 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+# Agustín Esteban Araujo
 
-[Link to another page](./another-page.html).
+Hi there! I'm a motivated and technically adept Junior Python Developer with comprehensive
+certification achievements and hands-on experience in Python programming, generative AI, and IT
+automation. I'm proficient in leveraging AI tools, web development frameworks, and automation
+techniques to enhance productivity and solve complex problems. My skills include Python web
+development (Django), data visualization (Matplotlib), and natural language processing (NLTK). I
+also have a strong foundation in IT support, configuration management, and version control
+(Git/GitHub), and I'm committed to continuous learning in the rapidly advancing fields of AI and
+software development. I'm excited to apply my diverse skill set to contribute to innovative project
+development and problem-solving in a dynamic team environment.
 
-There should be whitespace between paragraphs.
+## Projects
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+- [trakt-tmdb-watched-movies](https://github.com/topogoogles/trakt-tmdb-watched-movies)
+- [notion-medlog](https://github.com/topogoogles/notion-medlog)
+- [traktor-collection-manager](https://github.com/topogoogles/traktor-collection-manager)
+- [cnn-us-epg-grabber](https://github.com/topogoogles/cnn-us-epg-grabber)
+- [npl-pretrained-model-bot](https://github.com/topogoogles/npl-pretrained-model-bot)
 
-# Header 1
+## Skills
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+[Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-## Header 2
+[Automation](https://img.shields.io/badge/Automation-4EA94B?style=for-the-badge&logo=probot&logoColor=white)
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+[Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 
-### Header 3
+[GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
