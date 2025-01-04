@@ -33,12 +33,12 @@
    </ul>
 </p>
 <p><a href="https://coursera.org/verify/professional-cert/GKA9NYNPDSWY"><b>Google IT Support Specialist (2022)</b></a>
-   <ui>
+   <ul>
       <li>Technical support</li>
       <li>Network administration</li>
       <li>System administration</li>
       <li>Cybersecurity</li>
-   </ui>
+   </ul>
 </p>
 
 ----------
@@ -47,13 +47,13 @@
 
 |   <a href="https://github.com/topogoogles/traktor-collection-manager"><b>Traktor Collection Manager</b></a>    |   <a href="https://github.com/topogoogles/trakt-tmdb-watched-movies"><b>Trakt TMDB Watched Movies</b></a>   |   <a href="https://github.com/topogoogles/notion-medlog"><b>Notion MedLog</b></a>   |
 |   :---:   |   :---:   |   :---:   |
-|   <p>A tool designed to help DJs manage their music collections within Traktor DJ software. It provides functionality to export collection data, compare it with other sources (like Shazam. Spotify, Beatport), and analyze track information. The project synchronizes watched movies data between Trakt.Tv and TheMovieDB.org fetching additional movie details and serving two updated CSV local files containing the databases with this information.</p>   |   <p>The project synchronizes watched movies data between Trakt.Tv and TheMovieDB.org fetching additional movie details and serving two updated CSV local files containing the databases with this information. Additionally it can upload the data to a Watched Movies Database in Notion for a more digestable reading and aesthetic visualization.</p>   |   <p>A simple Python application that logs timestamps to Notion databases. It's designed to be easily integrated into existing healthcare workflows, allowing quick and efficient recording of patient data directly to Notion pages.</p>   |
+|   A tool designed to help DJs manage their music collections within Traktor DJ software. It provides functionality to export collection data, compare it with other sources (like Shazam. Spotify, Beatport), and analyze track information. The project synchronizes watched movies data between Trakt.Tv and TheMovieDB.org fetching additional movie details and serving two updated CSV local files containing the databases with this information.   |   The project synchronizes watched movies data between Trakt.Tv and TheMovieDB.org fetching additional movie details and serving two updated CSV local files containing the databases with this information. Additionally it can upload the data to a Watched Movies Database in Notion for a more digestable reading and aesthetic visualization.   |   A simple Python application that logs timestamps to Notion databases. It's designed to be easily integrated into existing healthcare workflows, allowing quick and efficient recording of patient data directly to Notion pages.   |
    
 ----------
 
-![Static Badge](https://img.shields.io/badge/Python-gold?style=plastic&logo=python) ![Static Badge](https://img.shields.io/badge/HTML+CSS-salmon?style=plastic&logo=htmx) ![Static Badge](https://img.shields.io/badge/Django-seagreen?style=plastic&logo=django) ![Static Badge](https://img.shields.io/badge/Flask-gray?style=plastic&logo=flask)
+![Static Badge](https://img.shields.io/badge/Python-gold?style=plastic&logo=python) ![Static Badge](https://img.shields.io/badge/HTML+CSS-salmon?style=plastic&logo=htmx) ![Static Badge](https://img.shields.io/badge/Django-seagreen?style=plastic&logo=django) ![Static Badge](https://img.shields.io/badge/Flask-gray?style=plastic&logo=flask) 
 ![Static Badge](https://img.shields.io/badge/LLMs-lightgreen?style=plastic&logo=openai) ![Static Badge](https://img.shields.io/badge/Generative_AI-lavender?style=plastic&logo=google-gemini) ![Static Badge](https://img.shields.io/badge/Prompt_Engineering-teal?style=plastic&logo=openaigym) 
-![Static Badge](https://img.shields.io/badge/Google_Cloud-lightblue?style=plastic&logo=google-cloud) ![Static Badge](https://img.shields.io/badge/VERTEX_AI-lightslategray?style=plastic&logo=vtex) ![Static Badge](https://img.shields.io/badge/Linux-gray?style=plastic&logo=linux) ![Static Badge](https://img.shields.io/badge/PowerShell-midnightblue?style=plastic&logo=ntfy) ![Static Badge](https://img.shields.io/badge/Puppet-lightyellow?style=plastic&logo=puppet)     
+![Static Badge](https://img.shields.io/badge/Google_Cloud-lightblue?style=plastic&logo=google-cloud) ![Static Badge](https://img.shields.io/badge/VERTEX_AI-lightslategray?style=plastic&logo=vtex) ![Static Badge](https://img.shields.io/badge/Linux-gray?style=plastic&logo=linux) ![Static Badge](https://img.shields.io/badge/PowerShell-midnightblue?style=plastic&logo=ntfy) ![Static Badge](https://img.shields.io/badge/Puppet-lightyellow?style=plastic&logo=puppet) 
 ![Static Badge](https://img.shields.io/badge/Matplotlib-hotpink?style=plastic&logo=soundcharts) ![Static Badge](https://img.shields.io/badge/Jupyter_Notebooks-white?style=plastic&logo=jupyter) ![Static Badge](https://img.shields.io/badge/DNS-mediumpurple?style=plastic&logo=nextdns) ![Static Badge](https://img.shields.io/badge/Network_Security-honeydew?style=plastic&logo=adguard) ![Static Badge](https://img.shields.io/badge/OSI/TCP_IP-burlywood?style=plastic&logo=awsorganizations)
  
 ----------
