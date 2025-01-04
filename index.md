@@ -3,7 +3,9 @@
 <p align=center><b>Python Developer | AI Enthusiast | IT Automation Specialist</b></p>
 <p align="center">Motivated Python Developer specializing in AI implementation and IT automation. With comprehensive Google certifications and hands-on experience, I combine technical expertise in Python programming with practical knowledge in IT systems and artificial intelligence. Currently focused on leveraging AI tools and automation techniques to enhance productivity and solve complex problems.</p>
 <p align="center"> <a href="mailto:araujoagustin@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-lightgray?style=for-the-badge&logo=gmail"></a> <a href="https://topogoogles.github.io"><img src="https://img.shields.io/badge/Portfolio-Website-orangered?style=for-the-badge&logo=brave"></a> <img src="https://img.shields.io/badge/Location-Barcelona-blue?style=for-the-badge&logo=google-maps"></p>
+
 ----------
+
 ### 📃 Certificates
 
 <p><a href="https://coursera.org/verify/MF2ACZNKUQXR"><b>Google AI Essentials (2024)</b></a>
@@ -11,7 +13,7 @@
       <li>Generative AI implementation</li>
       <li>Advanced prompt engineering</li>
       <li>AI responsibility and ethics</li>
-      <li>Natural Language Processing</li>
+      <li>Al Strategy</li>
    </ul>
 </p>
 <p><a href="https://coursera.org/verify/specialization/BSFGUD7NBSMN"><b>Codio Select Topics in Python (2024)</b></a>
@@ -44,7 +46,7 @@
 ### 🚀 Projects
 
 |   <a href="https://github.com/topogoogles/traktor-collection-manager"><b>Traktor Collection Manager</b></a>    |   <a href="https://github.com/topogoogles/trakt-tmdb-watched-movies"><b>Trakt TMDB Watched Movies</b></a>   |   <a href="https://github.com/topogoogles/notion-medlog"><b>Notion MedLog</b></a>   |
-|   ---   |   ---   |   ---   |
+|   :---:   |   :---:   |   :---:   |
 |   <p>A tool designed to help DJs manage their music collections within Traktor DJ software. It provides functionality to export collection data, compare it with other sources (like Shazam. Spotify, Beatport), and analyze track information. The project synchronizes watched movies data between Trakt.Tv and TheMovieDB.org fetching additional movie details and serving two updated CSV local files containing the databases with this information.</p>   |   <p>The project synchronizes watched movies data between Trakt.Tv and TheMovieDB.org fetching additional movie details and serving two updated CSV local files containing the databases with this information. Additionally it can upload the data to a Watched Movies Database in Notion for a more digestable reading and aesthetic visualization.</p>   |   <p>A simple Python application that logs timestamps to Notion databases. It's designed to be easily integrated into existing healthcare workflows, allowing quick and efficient recording of patient data directly to Notion pages.</p>   |
    
 ----------
