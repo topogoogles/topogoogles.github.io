@@ -1,18 +1,62 @@
 <h1 align="center">Hi 👋, I'm topogoogles</h1> 
-<p align="center"><img src="https://avatars.githubusercontent.com/u/48167838?v=4">
-
-<p align=center><b>Python Developer | AI Enthusiast | IT Automation Specialist</b>
-</p>
-
+<p align="center"><img src="https://avatars.githubusercontent.com/u/48167838?v=4"></p>
+<p align=center><b>Python Developer | AI Enthusiast | IT Automation Specialist</b></p>
 <p align="center">Motivated Python Developer specializing in AI implementation and IT automation. With comprehensive Google certifications and hands-on experience, I combine technical expertise in Python programming with practical knowledge in IT systems and artificial intelligence. Currently focused on leveraging AI tools and automation techniques to enhance productivity and solve complex problems.</p>
-
-<p align="center"> <a href="mailto:araujoagustin@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-lightgray?style=for-the-badge&logo=gmail"></a> <a href="https://topogoogles.github.io"><img src="https://img.shields.io/badge/Portfolio-Website-orangered?style=for-the-badge&logo=brave"></a> <img src="https://img.shields.io/badge/Location-Barcelona-blue?style=for-the-badge&logo=google-maps"> </p>
-
+<p align="center"> <a href="mailto:araujoagustin@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-lightgray?style=for-the-badge&logo=gmail"></a> <a href="https://topogoogles.github.io"><img src="https://img.shields.io/badge/Portfolio-Website-orangered?style=for-the-badge&logo=brave"></a> <img src="https://img.shields.io/badge/Location-Barcelona-blue?style=for-the-badge&logo=google-maps"></p>
 ----------
-
 ### 📃 Certificates
-<details><p><summary><a href="https://coursera.org/verify/MF2ACZNKUQXR"><b>Google AI Essentials (2024)</b></a></summary> - Generative AI implementation - Advanced prompt engineering - AI responsibility and ethics - Strategic AI implementation </details></p> <p><details> <summary><a href="https://coursera.org/verify/specialization/BSFGUD7NBSMN
-"><b>Codio Select Topics in Python (2024)</b></a></summary> - Python packaging and development - Data visualization with Matplotlib - Web development with Django - Natural Language Processing </details></p> <p><details> <summary><a href="https://www.coursera.org/verify/professional-cert/K9K8649HJ2PB"><b>Google IT Automation with Python (2022)</b></a></summary> - Process automation - Configuration management - Version control systems - Cloud resource management </details></p> <p><details> <summary><a href="https://coursera.org/verify/professional-cert/GKA9NYNPDSWY"><b>Google IT Support Specialist (2022)</b></a></summary> - Technical support - Network administration - System administration - Cybersecurity </details></p>
+<details>
+   <p>
+      <summary>
+         <a href="https://coursera.org/verify/MF2ACZNKUQXR"><b>Google AI Essentials (2024)</b></a>
+      </summary>
+      <ul>
+         <li>Generative AI implementation</li>
+         <li>Advanced prompt engineering</li>
+         <li>AI responsibility and ethics</li>
+         <li>Natural Language Processing</li>
+      </ul>
+   </p>
+</details>
+<details>
+   <p>
+      <summary>
+         <a href="https://coursera.org/verify/specialization/BSFGUD7NBSMN"><b>Codio Select Topics in Python (2024)</b></a>
+      </summary>
+      <ul>
+         <li>Python packaging and development</li>
+         <li>Data visualization with Matplotlib</li>
+         <li>Web development with Django</li>
+         <li>Natural Language Processing</li>
+      </ul>
+   </p>
+</details>
+<details>
+   <p>
+      <summary>
+         <a href="https://www.coursera.org/verify/professional-cert/K9K8649HJ2PB"><b>Google IT Automation with Python (2022)</b></a>
+      </summary>
+      <ul>
+         <li>Process automation</li>
+         <li>Configuration management</li>
+         <li>Version control systems</li>
+         <li>Cloud resource management</li>
+      </ul>
+   </p>
+</details>
+<details>
+   <p>
+      <summary>
+         <a href="https://coursera.org/verify/professional-cert/GKA9NYNPDSWY"><b>Google IT Support Specialist (2022)</b></a>
+      </summary>
+      <ui>
+         <li>Technical support</li>
+         <li>Network administration</li>
+         <li>System administration</li>
+         <li>Cybersecurity</li>
+      </ui>
+   </p>
+</details>
 
 ----------
 
