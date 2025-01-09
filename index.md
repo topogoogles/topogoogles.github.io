@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm topogoogles</h1> 
+[<h1 align="center">Hi 👋, I'm topogoogles</h1> 
 <p align="center"><img src="https://avatars.githubusercontent.com/u/48167838?v=4"></p>
 <p align=center><b>Python Developer | AI Enthusiast | IT Automation Specialist</b></p>
 <p align="center">Motivated Python Developer specializing in AI implementation and IT automation. With comprehensive Google certifications and hands-on experience, I combine technical expertise in Python programming with practical knowledge in IT systems and artificial intelligence. Currently focused on leveraging AI tools and automation techniques to enhance productivity and solve complex problems.</p>
@@ -62,3 +62,4 @@
 ----------
 
 <p align="center"> <i>Always learning, always growing. Open to collaborations and new opportunities!</i> </p>
+](https://komarev.com/ghpvc/?username=topogoogles&label=Profile%20views&color=0e75b6&style=flat)
