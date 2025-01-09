@@ -11,8 +11,39 @@
 ----------
 
 ### 📃 Certificates
-<details><p><summary><a href="https://coursera.org/verify/MF2ACZNKUQXR"><b>Google AI Essentials (2024)</b></a></summary> - Generative AI implementation - Advanced prompt engineering - AI responsibility and ethics - Strategic AI implementation </details></p> <p><details> <summary><a href="https://coursera.org/verify/specialization/BSFGUD7NBSMN
-"><b>Codio Select Topics in Python (2024)</b></a></summary> - Python packaging and development - Data visualization with Matplotlib - Web development with Django - Natural Language Processing </details></p> <p><details> <summary><a href="https://www.coursera.org/verify/professional-cert/K9K8649HJ2PB"><b>Google IT Automation with Python (2022)</b></a></summary> - Process automation - Configuration management - Version control systems - Cloud resource management </details></p> <p><details> <summary><a href="https://coursera.org/verify/professional-cert/GKA9NYNPDSWY"><b>Google IT Support Specialist (2022)</b></a></summary> - Technical support - Network administration - System administration - Cybersecurity </details></p>
+
+<p><a href="https://coursera.org/verify/MF2ACZNKUQXR"><b>Google AI Essentials (2024)</b></a>
+   <ul>
+      <li>Generative AI implementation</li>
+      <li>Advanced prompt engineering</li>
+      <li>AI responsibility and ethics</li>
+      <li>Al Strategy</li>
+   </ul>
+</p>
+<p><a href="https://coursera.org/verify/specialization/BSFGUD7NBSMN"><b>Codio Select Topics in Python (2024)</b></a>
+   <ul>
+      <li>Python packaging and development</li>
+      <li>Data visualization with Matplotlib</li>
+      <li>Web development with Django</li>
+      <li>Natural Language Processing</li>
+   </ul>
+</p>
+<p><a href="https://www.coursera.org/verify/professional-cert/K9K8649HJ2PB"><b>Google IT Automation with Python (2022)</b></a>
+   <ul>
+      <li>Process automation</li>
+      <li>Configuration management</li>
+      <li>Version control systems</li>
+      <li>Cloud resource management</li>
+   </ul>
+</p>
+<p><a href="https://coursera.org/verify/professional-cert/GKA9NYNPDSWY"><b>Google IT Support Specialist (2022)</b></a>
+   <ul>
+      <li>Technical support</li>
+      <li>Network administration</li>
+      <li>System administration</li>
+      <li>Cybersecurity</li>
+   </ul>
+</p>
 
 ----------
 
