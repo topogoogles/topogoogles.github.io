@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm topogoogles</h1> 
-<p align="center"><img src="https://avatars.githubusercontent.com/u/48167838?v=4">
+<p align="center"><img src="https://notion-avatar.vercel.app/api/img/eyJmYWNlIjo4LCJub3NlIjoxMiwibW91dGgiOjksImV5ZXMiOjYsImV5ZWJyb3dzIjo4LCJnbGFzc2VzIjowLCJoYWlyIjo0OCwiYWNjZXNzb3JpZXMiOjAsImRldGFpbHMiOjYsImJlYXJkIjoyLCJmbGlwIjoxLCJjb2xvciI6InRyYW5zcGFyZW50Iiwic2hhcGUiOiJjaXJjbGUifQ==" alt="notion avatar">
 
 <p align=center><b>Python Developer | AI Enthusiast | IT Automation Specialist</b>
 </p>
